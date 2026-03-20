@@ -1,6 +1,6 @@
-## https://gemini.google.com/share/a5daa01a3592
 
-# Hi, I'm Aditya Bhardwaj
+# Aditya Bhardwaj
+
 ![SEO](https://img.shields.io/badge/SEO-Expert-blue)
 ![Google Ads](https://img.shields.io/badge/Google%20Ads-Professional-green)
 ![Meta Ads](https://img.shields.io/badge/Meta%20Ads-Performance-orange)
