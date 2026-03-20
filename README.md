@@ -1,11 +1,14 @@
 
+![Banner](unnamed.jpg)
+
 # Aditya Bhardwaj
 
-![SEO](https://img.shields.io/badge/SEO-Expert-blue)
+![SEO Expert](https://img.shields.io/badge/SEO-Expert-blue)
 ![Google Ads](https://img.shields.io/badge/Google%20Ads-Professional-green)
 ![Meta Ads](https://img.shields.io/badge/Meta%20Ads-Performance-orange)
 
-📈 30K+ Organic Traffic | Lead Generation | CRO  
+📈 30K+ Organic Traffic | Lead Generation | CRO
+
 ## 👋 About Me
 Digital Marketing Specialist with **4+ years of experience** in SEO, Performance Marketing, and Analytics.  
 Focused on driving **organic growth, lead generation, and ROI-based marketing strategies**.
