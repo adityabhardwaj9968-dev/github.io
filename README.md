@@ -9,9 +9,11 @@
 
 📈 30K+ Organic Traffic | Lead Generation | CRO
 
+---
+
 ## 👋 About Me
-Digital Marketing Specialist with **4+ years of experience** in SEO, Performance Marketing, and Analytics.  
-Focused on driving **organic growth, lead generation, and ROI-based marketing strategies**.
+---
+Digital Marketing Specialist with **4+ years of experience** in SEO, Performance Marketing, and Analytics. Focused on driving **organic growth, lead generation, and ROI-based strategies**.
 
 ---
 
@@ -125,4 +127,64 @@ Created and optimized a landing page for lead generation.
     -([https://globalriskmanagementinstitute.in/])
     -([https://globalriskmanagementinstitute.com/1-2/])
      
+## 📊 Case Studies
 
+### 🔹 Lead Generation Campaign (Google Ads)
+
+- 🎯 Objective: Generate high-quality leads
+- 💰 Budget: ₹50,000/month
+- ⚙️ Strategy:
+  - Keyword targeting (high intent)
+  - Landing page optimization
+  - A/B testing ad copies
+- 📈 Results:
+  - 35% increase in leads
+  - 22% lower cost per lead
+  - Improved conversion rate by 18%
+
+---
+
+### 🔹 SEO Growth Project
+
+- 🎯 Objective: Increase organic traffic
+- ⚙️ Strategy:
+  - Keyword clustering
+  - On-page SEO optimization
+  - Technical SEO fixes
+- 📈 Results:
+  - 30K+ monthly organic traffic
+  - Ranked multiple keywords on Page 1
+  - Improved domain authority
+
+---
+
+### 🔹 Meta Ads Performance Campaign
+
+- 🎯 Objective: Improve ROI & engagement
+- ⚙️ Strategy:
+  - Audience targeting & retargeting
+  - Creative testing
+  - Funnel optimization
+- 📈 Results:
+  - 40% increase in CTR
+  - Reduced CPC by 25%
+  - Higher engagement rate
+ 
+  ---
+  ## 📞 Contact / Hire Me
+
+💼 Open for freelance, full-time & consulting opportunities
+
+📧 Email: adityabhardwaj9968@gmail.com  
+📱 WhatsApp: https://wa.me/919968590750   
+
+---
+
+### 🚀 Let’s Work Together
+
+If you're looking to:
+- 📈 Grow your business with SEO  
+- 🎯 Generate leads through paid ads  
+- 💰 Improve ROI & conversions  
+
+👉 Feel free to reach out. Let’s discuss how I can help you scale 🚀
