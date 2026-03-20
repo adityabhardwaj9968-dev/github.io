@@ -1,16 +1,20 @@
-## https://gemini.google.com/share/a5daa01a3592
 
 # Hi, I'm Aditya Bhardwaj
+
 ![SEO](https://img.shields.io/badge/SEO-Expert-blue)
 ![Google Ads](https://img.shields.io/badge/Google%20Ads-Professional-green)
 ![Meta Ads](https://img.shields.io/badge/Meta%20Ads-Performance-orange)
 
 📈 30K+ Organic Traffic | Lead Generation | CRO  
+
+
 ## 👋 About Me
+
 Digital Marketing Specialist with **4+ years of experience** in SEO, Performance Marketing, and Analytics.  
 Focused on driving **organic growth, lead generation, and ROI-based marketing strategies**.
 
 ---
+
 
 ## 🚀 Key Achievements
 
@@ -22,7 +26,9 @@ Focused on driving **organic growth, lead generation, and ROI-based marketing st
 
 ---
 
+
 ## 💻 Skills & Expertise
+
 
 - **SEO:** On-page, Technical SEO, Keyword Research, Competitor Analysis  
 - **Performance Marketing:** Meta Ads (Facebook/Instagram), Google Ads  
@@ -31,6 +37,7 @@ Focused on driving **organic growth, lead generation, and ROI-based marketing st
 - **CRO:** Landing Page Optimization, Funnel Strategy  
 
 ---
+
 
 ## 🌍 Growth & Strategy Work
 
@@ -53,33 +60,43 @@ Focused on not just rankings, but driving **real business outcomes** like:
 ## 📈 Tools I Use
 
 **SEO & Research:**  
+
 SEMrush | Ahrefs | Google Search Console | Google Keyword Planner | Ubersuggest  
 
 **Analytics & Tracking:**  
+
 Google Analytics (GA4) | Google Tag Manager | Microsoft Clarity  
 
 **Performance Marketing:**  
+
 Meta Ads Manager | Google Ads  
 
 **Website & CMS:**  
+
 WordPress | Shopify | Elementor  
 
-**Technical SEO & Audits:**  
+**Technical SEO & Audits:** 
+
 Screaming Frog | Sitebulb  
 
 **Content & Optimization:**  
+
 Surfer SEO | ChatGPT (for content ideation & optimization)  
 
 **Reporting & Productivity:**  
+
 Google Sheets | Looker Studio (Google Data Studio)  
 
 ---
+
 ## 📊 Projects / Case Studies
 
 ### 🔹 SEO Growth Project
+
 - Increased traffic from 5K → 30K/month
 - Ranked high-volume keywords on Page 1
 - GSC Overview
+  
 <img width="1595" height="478" alt="image" src="https://github.com/user-attachments/assets/9ca9d594-8033-4899-b559-3cebdf987bd3" />
 
 ### 🔹Traffic Proof
@@ -87,39 +104,42 @@ Google Sheets | Looker Studio (Google Data Studio)
 
 
 ### 🔹 Landing Page Optimization
+
 - Built high-converting landing page
 - Improved lead generation
 
 ### 🔹 Ads Campaigns
+
 - Managed Meta & Google Ads
 - Generated quality leads
 
-### Traffic Proof
-  <img width="684" height="221" alt="image" src="https://github.com/user-attachments/assets/ef08c46f-8880-43c3-99cd-7a688d9ddee5" />
+ ### 🔹 Landing Page Development & Optimization
 
-  ### 🔹 Landing Page Development & Optimization
+**Overview**  
 
-** Overview:**  
 Created and optimized a landing page for lead generation.
 
-**⚙️ What I Did:**  
+**⚙️ What I Did:** 
+
 - Designed landing page using WordPress / Swipe Pages  
 - Optimized for better conversion  
 - Implemented tracking (GTM, Clarity)  
 - Improved page speed & mobile responsiveness  
 
-**📈 Results:**  
+**📈 Results:**
+
 - Increased conversion rate  
 - Improved lead quality  
 - Reduced bounce rate  
 
 **Landing Page:**  
-## Live Landing Page Devloped by Swipe Pages
+**Live Landing Page Devloped by Swipe Pages**
+
    -[Click here landing page](https://grmi.globalriskmanagementinstitute.in/pgdtrm-webinar)
    -[Click here landing page](https://grmi.globalriskmanagementinstitute.in/webinar)
 
- ## on Wordpress
-    -([https://globalriskmanagementinstitute.in/])
-    -([https://globalriskmanagementinstitute.com/1-2/])
-     
+ **on Wordpress**
+ 
+- https://globalriskmanagementinstitute.in/
+- https://globalriskmanagementinstitute.com/1-2/     
 
