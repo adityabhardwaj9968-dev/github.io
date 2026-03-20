@@ -11,8 +11,8 @@
 
 ---
 
-## 👋 About Me
----
+##  About Me
+
 Digital Marketing Specialist with **4+ years of experience** in SEO, Performance Marketing, and Analytics. Focused on driving **organic growth, lead generation, and ROI-based strategies**.
 
 ---
@@ -99,12 +99,10 @@ Google Sheets | Looker Studio (Google Data Studio)
 - Managed Meta & Google Ads
 - Generated quality leads
 
-### Traffic Proof
-  <img width="684" height="221" alt="image" src="https://github.com/user-attachments/assets/ef08c46f-8880-43c3-99cd-7a688d9ddee5" />
 
   ### 🔹 Landing Page Development & Optimization
 
-** Overview:**  
+ **Overview**  
 Created and optimized a landing page for lead generation.
 
 **⚙️ What I Did:**  
@@ -118,7 +116,6 @@ Created and optimized a landing page for lead generation.
 - Improved lead quality  
 - Reduced bounce rate  
 
-**Landing Page:**  
 ## Live Landing Page Devloped by Swipe Pages
    -[Click here landing page](https://grmi.globalriskmanagementinstitute.in/pgdtrm-webinar)
    -[Click here landing page](https://grmi.globalriskmanagementinstitute.in/webinar)
@@ -171,20 +168,36 @@ Created and optimized a landing page for lead generation.
   - Higher engagement rate
  
   ---
-  ## 📞 Contact / Hire Me
 
-💼 Open for freelance, full-time & consulting opportunities
+  ### 🚀 Let’s Work Together
 
-📧 Email: adityabhardwaj9968@gmail.com  
-📱 WhatsApp: https://wa.me/919968590750   
+- 📈 SEO Growth
+- 🎯 Paid Ads (Google & Meta)
+- 💰 Conversion Optimization
+
+👉 Let’s connect and scale your business 🚀
+
+---
+
+  
+## 📞 Contact / Hire Me
+
+<p align="center">
+  💼 Open for freelance, full-time & consulting opportunities  
+</p>
+
+<p align="center">
+  📧 <a href="mailto:adityabhardwaj9968@gmail.com">Email Me</a> |
+  📱 <a href="https://wa.me/919968590750">WhatsApp</a> |
+ 
+</p>
 
 ---
 
 ### 🚀 Let’s Work Together
 
-If you're looking to:
-- 📈 Grow your business with SEO  
-- 🎯 Generate leads through paid ads  
-- 💰 Improve ROI & conversions  
+- 📈 SEO Growth
+- 🎯 Paid Ads (Google & Meta)
+- 💰 Conversion Optimization
 
-👉 Feel free to reach out. Let’s discuss how I can help you scale 🚀
+👉 Let’s connect and scale your business 🚀
