@@ -79,13 +79,17 @@ Surfer SEO | ChatGPT (for content ideation & optimization)
 Google Sheets | Looker Studio (Google Data Studio)  
 
 ---
+
+
 ## 📊 Projects / Case Studies
+
 
 ### 🔹 SEO Growth Project
 - Increased traffic from 5K → 30K/month
 - Ranked high-volume keywords on Page 1
 - GSC Overview
 <img width="1595" height="478" alt="image" src="https://github.com/user-attachments/assets/9ca9d594-8033-4899-b559-3cebdf987bd3" />
+
 
 ### 🔹Traffic Proof
   <img width="684" height="221" alt="image" src="https://github.com/user-attachments/assets/ef08c46f-8880-43c3-99cd-7a688d9ddee5" />
@@ -94,6 +98,8 @@ Google Sheets | Looker Studio (Google Data Studio)
 ### 🔹 Landing Page Optimization
 - Built high-converting landing page
 - Improved lead generation
+
+
 
 ### 🔹 Ads Campaigns
 - Managed Meta & Google Ads
@@ -117,8 +123,8 @@ Created and optimized a landing page for lead generation.
 - Reduced bounce rate  
 
 ## Live Landing Page Devloped by Swipe Pages
-   -[Click here landing page](https://grmi.globalriskmanagementinstitute.in/pgdtrm-webinar)
-   -[Click here landing page](https://grmi.globalriskmanagementinstitute.in/webinar)
+   -([https://grmi.globalriskmanagementinstitute.in/pgdtrm-webinar])
+   -([https://grmi.globalriskmanagementinstitute.in/webinar])
 
  ## on Wordpress
     -([https://globalriskmanagementinstitute.in/])
