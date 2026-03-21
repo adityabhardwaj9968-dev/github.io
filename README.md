@@ -1,6 +1,8 @@
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/0efb541c-7170-4782-9a81-5414b081119f" />
 
-# Aditya Bhardwaj
+
+## Aditya Bhardwaj
 
 ![SEO Expert](https://img.shields.io/badge/SEO-Expert-blue)
 ![Google Ads](https://img.shields.io/badge/Google%20Ads-Professional-green)
