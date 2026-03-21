@@ -1,28 +1,19 @@
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/0efb541c-7170-4782-9a81-5414b081119f" />
 <p align="center">
-  <h1>Aditya Bhardwaj</h1>
-</p>
+ 
+  ## About Me
 
-<p align="center">
-  Digital Marketing Specialist | Performance Marketer
-</p>
+Digital Marketing Specialist with **4+ years of experience** in SEO, Performance Marketing, and Analytics. Focused on driving **organic growth, lead generation, and ROI-based strategies**.
 
-<p align="center">
-  🚀 Generated 25,000+ Organic Visitors in 30 Days
-</p>
+---
+ 
 
 ![SEO Expert](https://img.shields.io/badge/SEO-Expert-blue)
 ![Google Ads](https://img.shields.io/badge/Google%20Ads-Professional-green)
 ![Meta Ads](https://img.shields.io/badge/Meta%20Ads-Performance-orange)
 
 📈 30K+ Organic Traffic | Lead Generation | CRO
-
----
-
-##  About Me
-
-Digital Marketing Specialist with **4+ years of experience** in SEO, Performance Marketing, and Analytics. Focused on driving **organic growth, lead generation, and ROI-based strategies**.
 
 ---
 
@@ -132,14 +123,21 @@ Created and optimized a landing page for lead generation.
 - Reduced bounce rate  
 
 ## Live Landing Page Devloped by Swipe Pages
-   -([https://grmi.globalriskmanagementinstitute.in/pgdtrm-webinar])
-   -([https://grmi.globalriskmanagementinstitute.in/webinar])
+
+## 🌐 Projects / Webinars
+
+- 🔗 [PGDTRM Webinar Landing Page](https://grmi.globalriskmanagementinstitute.in/pgdtrm-webinar)
+- 🔗 [General Webinar Page](https://grmi.globalriskmanagementinstitute.in/webinar)
 
  ## on Wordpress
-    -([https://globalriskmanagementinstitute.in/])
-    -([https://globalriskmanagementinstitute.com/1-2/])
+
+- [Global Risk Management Institute](https://globalriskmanagementinstitute.in/)
+- [Global Risk Management Institute Page](https://globalriskmanagementinstitute.com/1-2/)
+
      
 ## 📊 Case Studies
+
+
 
 ### 🔹 Lead Generation Campaign (Google Ads)
 
@@ -193,7 +191,6 @@ Created and optimized a landing page for lead generation.
 👉 Let’s connect and scale your business 🚀
 
 ---
-
   
 ## 📞 Contact / Hire Me
 
