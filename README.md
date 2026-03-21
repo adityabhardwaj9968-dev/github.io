@@ -1,5 +1,4 @@
 
-![Banner](unnamed.jpg)
 
 # Aditya Bhardwaj
 
