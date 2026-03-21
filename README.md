@@ -1,8 +1,16 @@
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/0efb541c-7170-4782-9a81-5414b081119f" />
+<p align="center">
+  <h1>Aditya Bhardwaj</h1>
+</p>
 
+<p align="center">
+  Digital Marketing Specialist | Performance Marketer
+</p>
 
-## Aditya Bhardwaj
+<p align="center">
+  🚀 Generated 25,000+ Organic Visitors in 30 Days
+</p>
 
 ![SEO Expert](https://img.shields.io/badge/SEO-Expert-blue)
 ![Google Ads](https://img.shields.io/badge/Google%20Ads-Professional-green)
