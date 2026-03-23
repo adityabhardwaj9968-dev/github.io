@@ -137,13 +137,15 @@ Google Sheets | Looker Studio (Google Data Studio)
 ---
 
 
-## 📊 Projects / Case Studies
+## 📊 Projects 
 
 
 ### 🔹 SEO Growth Project
 - Increased traffic from 5K → 30K/month
 - Ranked high-volume keywords on Page 1
 - GSC Overview
+
+- https://grm.institute/
 <img width="1595" height="478" alt="image" src="https://github.com/user-attachments/assets/9ca9d594-8033-4899-b559-3cebdf987bd3" />
 
 
