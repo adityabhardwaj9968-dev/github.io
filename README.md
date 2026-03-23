@@ -1,7 +1,11 @@
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/0efb541c-7170-4782-9a81-5414b081119f" />
 <p align="center">
- 
+
+ 📍 Gurugram, India  
+📞 +91-9968590750  
+📧 Adityabhardwaj9968@gmail.com 
+
   ## About Me
 
 Digital Marketing Specialist with **4+ years of experience** in SEO, Performance Marketing, and Analytics. Focused on driving **organic growth, lead generation, and ROI-based strategies**.
@@ -13,9 +17,48 @@ Digital Marketing Specialist with **4+ years of experience** in SEO, Performance
 ![Google Ads](https://img.shields.io/badge/Google%20Ads-Professional-green)
 ![Meta Ads](https://img.shields.io/badge/Meta%20Ads-Performance-orange)
 
-📈 30K+ Organic Traffic | Lead Generation | CRO
+📈 30K+ Organic Traffic | Lead Generation | 
 
 ---
+
+
+### 💼 Work Experience
+
+### 🔹 Digital Marketing Executive  
+**Risk Educators Pvt. Ltd.**  
+📅 Feb 2025 – Present  
+
+- Executing end-to-end SEO strategies (On-page, Off-page, Technical SEO)  
+- Managing Google Ads campaigns (Search, Display, Performance Max)  
+- Generated **20+ enrollments via marketing efforts**  
+- Built and optimized landing pages for better conversion rates  
+- Managed WordPress websites (SEO + performance optimization)  
+- Meta Ads campaigns for lead generation & ROI improvement  
+
+---
+
+### 🔹 SEO & SMO Executive  
+**AKVM Solutions Pvt. Ltd.**  
+📅 Nov 2023 – Feb 2025  
+
+- Managed SEO campaigns (keyword research, backlinks, technical SEO)  
+- Ran Meta Ads campaigns → achieved **50+ bookings**  
+- Improved organic social media growth  
+- Implemented schema & technical fixes for SEO performance  
+
+---
+
+### 🔹 SEO Executive  
+**CricketGyan, Noida**  
+📅 June 2022 – Nov 2023  
+
+- Performed keyword research, mapping & backlink strategies  
+- Optimized on-page SEO (meta tags, content, internal linking)  
+- Implemented technical SEO improvements (schema, crawlability)  
+- Improved domain authority & search rankings  
+
+---
+
 
 ## 🚀 Key Achievements
 
@@ -34,6 +77,19 @@ Digital Marketing Specialist with **4+ years of experience** in SEO, Performance
 - **Analytics & Tracking:** Google Tag Manager, Microsoft Clarity, Google Search Console  
 - **CMS & Development:** Shopify, WordPress  
 - **CRO:** Landing Page Optimization, Funnel Strategy  
+
+---
+
+## 🎓 Education
+
+**Bachelor of Commerce (B.Com)**  
+IGNOU  
+
+---
+
+## 📜 Certification
+
+- Delhi Institute of Digital Marketing  
 
 ---
 
@@ -105,24 +161,10 @@ Google Sheets | Looker Studio (Google Data Studio)
 - Managed Meta & Google Ads
 - Generated quality leads
 
+---
 
-  ### 🔹 Landing Page Development & Optimization
 
- **Overview**  
-Created and optimized a landing page for lead generation.
-
-**⚙️ What I Did:**  
-- Designed landing page using WordPress / Swipe Pages  
-- Optimized for better conversion  
-- Implemented tracking (GTM, Clarity)  
-- Improved page speed & mobile responsiveness  
-
-**📈 Results:**  
-- Increased conversion rate  
-- Improved lead quality  
-- Reduced bounce rate  
-
-## Live Landing Page Devloped by Swipe Pages
+### Live Landing Page Devloped by Swipe Pages
 
 ## 🌐 Projects / Webinars
 
@@ -134,82 +176,19 @@ Created and optimized a landing page for lead generation.
 - [Global Risk Management Institute](https://globalriskmanagementinstitute.in/)
 - [Global Risk Management Institute Page](https://globalriskmanagementinstitute.com/1-2/)
 
-     
-## 📊 Case Studies
 
-
-
-### 🔹 Lead Generation Campaign (Google Ads)
-
-- 🎯 Objective: Generate high-quality leads
-- 💰 Budget: ₹50,000/month
-- ⚙️ Strategy:
-  - Keyword targeting (high intent)
-  - Landing page optimization
-  - A/B testing ad copies
-- 📈 Results:
-  - 35% increase in leads
-  - 22% lower cost per lead
-  - Improved conversion rate by 18%
-
----
-
-### 🔹 SEO Growth Project
-
-- 🎯 Objective: Increase organic traffic
-- ⚙️ Strategy:
-  - Keyword clustering
-  - On-page SEO optimization
-  - Technical SEO fixes
-- 📈 Results:
-  - 30K+ monthly organic traffic
-  - Ranked multiple keywords on Page 1
-  - Improved domain authority
-
----
-
-### 🔹 Meta Ads Performance Campaign
-
-- 🎯 Objective: Improve ROI & engagement
-- ⚙️ Strategy:
-  - Audience targeting & retargeting
-  - Creative testing
-  - Funnel optimization
-- 📈 Results:
-  - 40% increase in CTR
-  - Reduced CPC by 25%
-  - Higher engagement rate
- 
   ---
 
-  ### 🚀 Let’s Work Together
-
-- 📈 SEO Growth
-- 🎯 Paid Ads (Google & Meta)
-- 💰 Conversion Optimization
-
-👉 Let’s connect and scale your business 🚀
-
----
-  
-## 📞 Contact / Hire Me
-
-<p align="center">
-  💼 Open for freelance, full-time & consulting opportunities  
-</p>
-
-<p align="center">
-  📧 <a href="mailto:adityabhardwaj9968@gmail.com">Email Me</a> |
-  📱 <a href="https://wa.me/919968590750">WhatsApp</a> |
  
+## 📬 Let's Connect
+
+💼 Open for opportunities in SEO & Performance Marketing  
+
+👉 Email: Adityabhardwaj9968@gmail.com  
+👉 Phone: +91-9968590750  
+
+🚀 Let’s grow your business with data-driven marketing!
 </p>
 
 ---
 
-### 🚀 Let’s Work Together
-
-- 📈 SEO Growth
-- 🎯 Paid Ads (Google & Meta)
-- 💰 Conversion Optimization
-
-👉 Let’s connect and scale your business 🚀
